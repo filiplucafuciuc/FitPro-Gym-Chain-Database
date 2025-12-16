@@ -1,5 +1,10 @@
 # FitPro – Gym Chain Database (Oracle SQL)
 
+📄 **Project documentation (PDF):**  
+[Download Fuciuc_Filip.pdf](./Fuciuc_Filip.pdf)
+
+---
+
 **FitPro** is an Oracle Database project designed for managing a **real-world gym chain**.
 The database models clients, gyms, trainers, courses, equipment, subscriptions, schedules,
 personal training sessions, and client feedback.
